@@ -1,0 +1,99 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs/
+*.log
+logs/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+npm2.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Files
+dist/
+build/
+.next/
+out/
+
+# IDE/Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# TypeScript
+*.tsbuildinfo
+
+# Dependency Directories
+.bower_components/
+
+# Coverage
+coverage/
+*.lcov
+
+# Miscellaneous
+*.zip
+*.tar
+*.gz
+
+# Solidity Artifacts
+artifacts/
+cache/
+
+# Ethereum Development
+.chain/
+node_modules/.cache/hardhat-nodejs/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+docker-compose.prod.yml
+docker-compose.dev.yml
+docker-compose-test.yml
+
+# Firebase
+.firebase/
+firestore.indexes.json
+firestore.rules
+storage.rules
+
+# AWS
+.aws/
+terraform.tfstate
+terraform.tfstate.backup
+
+# Python Virtual Env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# JetBrains
+*.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries
+.idea/shelf/
+.idea/vcs.xml
+
+# FundingHer Specific Files
+fundingher-secrets.json
+fundingher-local-config.json
