@@ -55,10 +55,7 @@ Women entrepreneurs and innovators often face funding challenges due to systemic
 Whether you're a developer, designer, security expert, or just passionate about women's empowerment, we welcome contributions! Here's how you can help:
 
 1. **Fork the Repo** 🍴
-2. **Clone the Project**
-   ```sh
-   git clone https://github.com/devsforimpact/fundingher.git
-   ```
+2. **Clone your forked repo**
 3. **Set Up Your Environment** (Install dependencies)
    ```sh
    cd fundingher
@@ -74,20 +71,18 @@ Whether you're a developer, designer, security expert, or just passionate about 
    ```
 6. **Submit a PR** 🚀
 
-For more details, check out our **CONTRIBUTING.md**.
+For more details, check out our [CONTRIBUTING.md](https://github.com/DevsForImpact/fundingher/CONTRIBUTING.md).
 
 ## Security & Audits 🔐
 
-We take security seriously. Our smart contracts undergo regular audits, and we follow best practices for secure Web3 development. If you spot a vulnerability, please report it responsibly via security@fundingher.com.
+We take security seriously. Our smart contracts undergo regular audits, and we follow best practices for secure Web3 development. If you spot a vulnerability, please report it responsibly to us via [email](mailto:devsforimpact@gmail.com).
 
 ## Get in Touch 📬
 
 Have questions, feedback, or ideas? Reach out to us!
 
-- Twitter: [@FundingHer](https://twitter.com/FundingHer)
-- Email: hello@fundingher.com
-- Discord: [Join our community](https://discord.gg/example)
-- Website: [www.fundingher.com](https://www.fundingher.com)
+- Email: devsforimpact@gmail.com
+- Website: [www.devsforimpact.com](https://www.devsforimpact.com)
 
 ## License 📜
 
