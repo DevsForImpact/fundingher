@@ -25,19 +25,21 @@ Women entrepreneurs and innovators often face funding challenges due to systemic
 - **Frontend**: React (Next.js), Tailwind CSS
 - **Backend**: Node.js, Express
 - **Blockchain**: Solidity, Ethereum (ERC-20), Polygon integration (optional for lower fees)
-- **Storage**: IPFS (for campaign data)
+- **CMS & Storage**: Sanity
 - **Payments**: Web3.js, Ethers.js for interacting with smart contracts
-- **Authentication**: WalletConnect, MetaMask
+- **Authentication**: NextAuth, WalletConnect, MetaMask
 
 ## Roadmap 🛣️
 
 ### Phase 1: MVP (Minimum Viable Product) 🚀
+
 ✅ Smart contract development & auditing
 ✅ Basic frontend UI for campaign creation & donations
 ✅ Wallet integration (MetaMask, WalletConnect)
 ✅ Deployment on testnet
 
 ### Phase 2: Full Launch 🎯
+
 ⬜ Security & smart contract enhancements
 ⬜ DAO integration for community governance
 ⬜ Multi-chain support (Polygon, Solana, etc.)
@@ -45,6 +47,7 @@ Women entrepreneurs and innovators often face funding challenges due to systemic
 ⬜ Partnership with women-focused organizations
 
 ### Phase 3: Scaling & Adoption 🌍
+
 ⬜ Global marketing campaign & community outreach
 ⬜ Additional languages & accessibility improvements
 ⬜ NFT-based donor rewards (optional)
@@ -90,8 +93,6 @@ FundingHer is an open-source project licensed under the **GNU Affero General Pub
 
 For full license details, see the [AGPL-3.0 License](https://www.gnu.org/licenses/agpl-3.0.html).
 
-
 ---
 
-💡 *"Fund the future, empower women, and change the world—one crypto donation at a time."* 🚀
-
+💡 _"Fund the future, empower women, and change the world—one crypto donation at a time."_ 🚀
